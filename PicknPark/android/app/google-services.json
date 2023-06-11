@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137025499042",
+    "project_id": "picknpark-84293",
+    "storage_bucket": "picknpark-84293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137025499042:android:e785e0707e1e2e898c0cfb",
+        "android_client_info": {
+          "package_name": "com.example.picknpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137025499042-n1ieifula6pgr9i2ntedtbp21mt3pv8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picknpark",
+            "certificate_hash": "2d60c8cf2881edbf6e33685b60e0c18ce51f0402"
+          }
+        },
+        {
+          "client_id": "137025499042-294jkocdq7urq0n0qka7jq1cdvrik6rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIyNOsTo2iIlGDjXrFgD0qcllEcpnFcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137025499042-294jkocdq7urq0n0qka7jq1cdvrik6rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
